@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlossiqueri&theme=dracula&" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlossiqueri&hide_rank=true&theme=dracula&" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=carlossiqueri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossiqueri&theme=dracula" />
