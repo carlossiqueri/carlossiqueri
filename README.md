@@ -1,4 +1,4 @@
-## Hello there! My name is Carlos and I'm a student of front end development.
+## Hello there! My name is Carlos and I'm a student of web development.
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
