@@ -4,12 +4,12 @@ I'm a Full Stack Web Developer, passionate about building robust and scalable ap
 
 ### Tech Stack & Skills
 
-Backend: Python (FastAPI, SQLAlchemy, Pandas, NumPy), NodeJS, Typescrit
+Backend: Python (FastAPI, Django, SQLAlchemy, Pandas), NodeJS, Typescrit
 
-Database: MySQL, PostgreSQL
+Database: MySQL, PostgreSQL, SQLite
 
-Frontend: ReactJS, JavaScript, HTML, and CSS
+Frontend: ReactJS, Svelte, JavaScript, Typescript, Tailwind CSS, HTML, and CSS
 
-Dev Tools: Docker, Git, Linux
+Dev Tools: Docker, Git, Linux, GCP
 
 
